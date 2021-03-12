@@ -15,6 +15,12 @@ namespace IntroGit
             
             Console.WriteLine($"Sumando {a} + {b} resulta {Addnumbers(a, b)}");
             Console.WriteLine($"Restando {a} - {b} resulta {Substractnumbers(a,b)}");
+            Console.WriteLine($"Multiplicando {a} * {b} resulta {MultiplyNumbers(a,b)}");
+        }
+
+        public static int MultiplyNumbers(int a, int b)
+        {
+            return a * b;
         }
 
         public static int Substractnumbers(int a, int b)

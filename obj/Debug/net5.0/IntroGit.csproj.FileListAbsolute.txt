@@ -14,3 +14,19 @@ C:\Users\ricar\OneDrive\Documentos\Universidad\POO\Optativas\IntroGit\IntroGit\o
 C:\Users\ricar\OneDrive\Documentos\Universidad\POO\Optativas\IntroGit\IntroGit\obj\Debug\net5.0\ref\IntroGit.dll
 C:\Users\ricar\OneDrive\Documentos\Universidad\POO\Optativas\IntroGit\IntroGit\obj\Debug\net5.0\IntroGit.pdb
 C:\Users\ricar\OneDrive\Documentos\Universidad\POO\Optativas\IntroGit\IntroGit\obj\Debug\net5.0\IntroGit.genruntimeconfig.cache
+C:\Users\frank\OneDrive\Documents\Mierdas de POO\Programa\Repo1\Polaris_POO012021\bin\Debug\net5.0\IntroGit.exe
+C:\Users\frank\OneDrive\Documents\Mierdas de POO\Programa\Repo1\Polaris_POO012021\bin\Debug\net5.0\IntroGit.deps.json
+C:\Users\frank\OneDrive\Documents\Mierdas de POO\Programa\Repo1\Polaris_POO012021\bin\Debug\net5.0\IntroGit.runtimeconfig.json
+C:\Users\frank\OneDrive\Documents\Mierdas de POO\Programa\Repo1\Polaris_POO012021\bin\Debug\net5.0\IntroGit.runtimeconfig.dev.json
+C:\Users\frank\OneDrive\Documents\Mierdas de POO\Programa\Repo1\Polaris_POO012021\bin\Debug\net5.0\IntroGit.dll
+C:\Users\frank\OneDrive\Documents\Mierdas de POO\Programa\Repo1\Polaris_POO012021\bin\Debug\net5.0\ref\IntroGit.dll
+C:\Users\frank\OneDrive\Documents\Mierdas de POO\Programa\Repo1\Polaris_POO012021\bin\Debug\net5.0\IntroGit.pdb
+C:\Users\frank\OneDrive\Documents\Mierdas de POO\Programa\Repo1\Polaris_POO012021\obj\Debug\net5.0\IntroGit.csprojAssemblyReference.cache
+C:\Users\frank\OneDrive\Documents\Mierdas de POO\Programa\Repo1\Polaris_POO012021\obj\Debug\net5.0\IntroGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\OneDrive\Documents\Mierdas de POO\Programa\Repo1\Polaris_POO012021\obj\Debug\net5.0\IntroGit.AssemblyInfoInputs.cache
+C:\Users\frank\OneDrive\Documents\Mierdas de POO\Programa\Repo1\Polaris_POO012021\obj\Debug\net5.0\IntroGit.AssemblyInfo.cs
+C:\Users\frank\OneDrive\Documents\Mierdas de POO\Programa\Repo1\Polaris_POO012021\obj\Debug\net5.0\IntroGit.csproj.CoreCompileInputs.cache
+C:\Users\frank\OneDrive\Documents\Mierdas de POO\Programa\Repo1\Polaris_POO012021\obj\Debug\net5.0\IntroGit.dll
+C:\Users\frank\OneDrive\Documents\Mierdas de POO\Programa\Repo1\Polaris_POO012021\obj\Debug\net5.0\ref\IntroGit.dll
+C:\Users\frank\OneDrive\Documents\Mierdas de POO\Programa\Repo1\Polaris_POO012021\obj\Debug\net5.0\IntroGit.pdb
+C:\Users\frank\OneDrive\Documents\Mierdas de POO\Programa\Repo1\Polaris_POO012021\obj\Debug\net5.0\IntroGit.genruntimeconfig.cache

@@ -14,8 +14,13 @@ namespace IntroGit
             b = Int32.Parse(Console.ReadLine());
             
             Console.WriteLine($"Sumando {a} + {b} resulta {Addnumbers(a, b)}");
+            Console.WriteLine($"Restando {a} - {b} resulta {Substractnumbers(a,b)}");
         }
 
+        public static int Substractnumbers(int a, int b)
+        {
+            return a - b;
+        }
         public static int Addnumbers(int a, int b)
         {
             return a + b;

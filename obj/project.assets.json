@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ricar\\.nuget\\packages\\": {}
+    "C:\\Users\\frank\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ricar\\OneDrive\\Documentos\\Universidad\\POO\\Optativas\\IntroGit\\IntroGit\\IntroGit.csproj",
+      "projectUniqueName": "C:\\Users\\frank\\OneDrive\\Documents\\Mierdas de POO\\Programa\\Repo1\\Polaris_POO012021\\IntroGit.csproj",
       "projectName": "IntroGit",
-      "projectPath": "C:\\Users\\ricar\\OneDrive\\Documentos\\Universidad\\POO\\Optativas\\IntroGit\\IntroGit\\IntroGit.csproj",
-      "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ricar\\OneDrive\\Documentos\\Universidad\\POO\\Optativas\\IntroGit\\IntroGit\\obj\\",
+      "projectPath": "C:\\Users\\frank\\OneDrive\\Documents\\Mierdas de POO\\Programa\\Repo1\\Polaris_POO012021\\IntroGit.csproj",
+      "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\frank\\OneDrive\\Documents\\Mierdas de POO\\Programa\\Repo1\\Polaris_POO012021\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
